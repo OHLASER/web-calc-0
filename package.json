@@ -1,0 +1,17 @@
+{
+  "name": "web-calc",
+  "version": "0.1.0",
+  "description": "calculator by web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oh-laser",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^2.56.3"
+  },
+  "devDependencies": {
+    "sass": "^1.38.1"
+  }
+}
