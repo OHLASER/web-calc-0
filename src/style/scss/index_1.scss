@@ -1,0 +1,34 @@
+div.shadowbox {
+    width: 15em;
+    border: 1px solid rgb(223, 57, 57);
+    box-shadow: 8px 8px 5px rgb(240, 11, 11);
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, rgb(248, 20, 20), rgb(226, 60, 60) 40%, rgb(167, 6, 6));
+  }
+
+div.data-input-container {
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    width: 0%;
+    textarea.data-input {
+      width: 50em;
+      height: 30em;
+    }
+  }
+  
+  div.data-output-container {
+    margin-top: 10em;
+    margin-left: 10em;
+    margin-right: 1em;
+    width: 100%;
+    div.data-output {
+      width: 75em;
+      height: 15em;
+      
+    }
+  }
+
+
+  
+  // vi: se ts=2 sw=2 et:
