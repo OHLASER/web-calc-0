@@ -1,0 +1,48 @@
+
+ /c/Users/takayanagi/source/repos/projects/web-calc/build/web-siteでphp -S localhost:9000 サーバ-を立てる
+ 
+http://localhost:9000/index.phpのレイアウト,処理,またはmakeを理解する
+C:\Users\takayanagi\source\repos\projects\web-calc\src テスト
+C:\Users\takayanagi\source\repos\projects\web-calc\build\web-site 本番
+
+takayanagi/source/repos/projects/web-calc
+//web-calc/src/style/scssでスタイル替え
+
+//web-calc/src/php/lib/calc.phpで中身の処理を変更
+
+//make
+web-calc/src/php/lib/Makefileの書き換え
+
+理由ずけができるように書く
+
+
+C:\Users\takayanagi\source\repos\projects\web-calc\build\web-site\lib 初期フォルダ
+ボタンhttps://getbootstrap.jp/docs/5.0/components/buttons/
+date https://www.php.net/manual/ja/function.date
+php https://www.php.net/manual/ja/intro-whatis.php  https://www.php.net/manual/ja/datetime.format.php
+makeファイル http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/article/gnu-make/rule.html
+
+
+
+
+https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6
+
+MSYS2 MSYS shellで
+実行
+/c/Users/takayanagi/source/repos/projects/web-calcmake で実行で本番環境へ移行
+
+//メモ
+本番環境で実行しないで一回違うところでやる
+コマンドをしっかり使う
+リロードは,右クリックからする
+phpの計算
+アピールは何をしたいかと現在やっていることを言う
+分からないことを明確にするために,できているものを真似するわけではない
+
+
+//サーバーについて
+set PATH=C:\php\php-8.0.1で一時的にpath設定exeファイルのある場所を選ぶ
+php -S localhost:9090でサーバーを建てられた
+https://www.javadrive.jp/php/install/index3.htmlを参照
+
+https://windows.php.net/download/でexeファイルはダウンロード

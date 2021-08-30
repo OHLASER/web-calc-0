@@ -1,0 +1,17 @@
+
+ /c/Users/takayanagi/source/repos/projects/web-calc/build/web-siteでphp -S localhost:9000 サーバ-を立てる
+ 
+http://localhost:9000/index.phpのレイアウト,処理,またはmakeを理解する
+C:\Users\takayanagi\source\repos\projects\web-calc\src テスト
+C:\Users\takayanagi\source\repos\projects\web-calc\build\web-site 本番
+
+takayanagi/source/repos/projects/web-calc
+//web-calc/src/style/scssでスタイル替え
+
+ファイルの相互関係について
+	イメージはcalc.phpで出力内容
+	index.phpが大枠
+	indexscssがデザイン
+http://php5.seesaa.net/article/54047460.html
+
+

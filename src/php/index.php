@@ -35,11 +35,13 @@
     <div class="data-input-container">
         <button class="command-to-run" type="button">echo _Run</button>
         <textarea class="data-input"></textarea>
+        <textarea class="data-input"></textarea>
+        <textarea class="data-input"></textarea>
       </div>
       <div class="data-output-container">
       <div class="data-output"></div>
      </div>
-     <br>
+     <br>*/
      
 
 

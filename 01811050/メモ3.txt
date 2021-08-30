@@ -1,0 +1,8 @@
+https://www.webdesignleaves.com/pr/php/php_basic_06.php?name=%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB&age=33
+
+dateに入力された値が入っている
+dateの値の分割を行う
+その値で演算を行う
+	http://php5.seesaa.net/article/54047460.html
+	http://php5.seesaa.net/article/54047460.html
+値をresultに入れる
